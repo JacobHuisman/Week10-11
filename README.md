@@ -3,7 +3,7 @@ My attempt of week 10 and 11
 First off, I downloaded and installed GoogleCloudSDKInstaller. I then initillized it and set the default zone and region to the one given in the instructions (us-central1 region and us-central1-f zone).  I then set up the firewall with the commands given to me and ran the command "gcloud compute ssh mhn-admin" which pulled up another window.  
 Then I typed the command "sudo apt update" and got this error:
 GPG error: http://downloads-distro.mongodb.org dist InRelease: Clearsigned file isn't valid, got 'NODATA' (does the network require authentication?)
-
+![FirstError](week10-11/SudoAptUpdate.gif)
 I then figured there was just something wrong with the update so I moved on and typed in the command "sudo apt install git python-magic -y" and was told that everything was up to date. 
 
 Then I "cd /opt/", "sudo git clone https://github.com/pwnlandia/mhn.git", and "cd mhn/"
