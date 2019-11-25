@@ -19,7 +19,7 @@ https://askubuntu.com/questions/486113/gpg-error-clearsigned-file-isnt-valid-whe
 https://www.bigbrus.com/2017/04/09/gpg-error-clearsigned-file-isnt-valid-got-nodata/
 https://stackoverflow.com/questions/24487165/inrelease-clearsigned-file-isnt-valid-got-nodata-does-the-network-require
 
-So, I assumed something was wrong with my laptop. So, I deleted everything and went to my desktop to try there.  But the same error kept popping up. 
+So, I assumed something was wrong with my laptop. So, I deleted everything and went to my desktop to try there.  But the same error kept popping up. The same also happened on the lab computers.
 GPG error: http://downloads-distro.mongodb.org dist InRelease: Clearsigned file isn't valid, got 'NODATA' (does the network require authentication?)
 
 I would also like to note that I did this assignment on mulitple different networks and wifi's (mainly the schools) and none of them worked. I got the same errors at the same places.
